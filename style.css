@@ -1,0 +1,19 @@
+{body background-color: rgb(197, 34, 51)}
+p {color:brown (88, 12,31)
+font-size: 25px;
+margin-left:20px; }
+h1 {
+    text-align: center;
+    color:brown
+}
+h2 {
+    text-align: center;
+}
+header {
+    border-bottom: solid 3px ;
+    padding: 25px ;
+    font-size: 32px;
+    display: flex;
+    justify-content: center;
+
+}
