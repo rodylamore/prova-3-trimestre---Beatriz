@@ -1,7 +1,9 @@
-{body background-color: rgb(197, 34, 51)}
-p {color:brown (88, 12,31)
-font-size: 25px;
-margin-left:20px; }
+body {background-color: darkgray; }
+p {
+    color: brown;
+    font-size: 25px;
+    margin-lef: 20px
+}
 h1 {
     text-align: center;
     color:brown
